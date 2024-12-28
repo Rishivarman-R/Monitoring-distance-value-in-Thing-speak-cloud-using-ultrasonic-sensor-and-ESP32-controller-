@@ -1,9 +1,8 @@
 ### NAME:  RISHIVARMAN<br>
 ### REG NO:  24900419
-# Monitoring-distance-value-in-Thing-speak-cloud-using-ultrasonic-sensor-and-ESP32-controller
+# EXPERIMENT 6: Monitoring-distance-value-in-Thing-speak-cloud-using-ultrasonic-sensor-and-ESP32-controller
 
-# Uploading ultrasonic sensor data in Thing Speak cloud
-
+# 
 # AIM:
 To monitor the distance of the obstacle in the Thing speak cloud using ultrasonic sensor and ESP32 controller.
 # Apparatus required:
@@ -153,7 +152,9 @@ void loop()
 }
 ```
 # CIRCUIT DIAGRAM:
-![398324713-9983b5aa-814c-4e95-beb9-60c24c1cd1e8](https://github.com/user-attachments/assets/eeeab3ef-647e-42f3-ac75-d9f25f78c806)
+<img src="https://github.com/user-attachments/assets/eeeab3ef-647e-42f3-ac75-d9f25f78c806"
+width="700"
+     height="500"/>
 
 # OUTPUT:
 ![398324766-5344858e-d37b-4869-80e6-41e387ce2e6e](https://github.com/user-attachments/assets/7e692900-7d15-4441-8008-66579716396b)
